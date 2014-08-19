@@ -1,0 +1,4 @@
+vms
+===
+
+Varnish Mobile Status
